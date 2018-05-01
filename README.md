@@ -14,7 +14,7 @@ PoissonRegression_aircraftdamage
 All these files have a .ipynb version as well as a .py version. The .ipynb are Jupyter-Notebook files and .py are the usual Python files. All files were made in Anaconda Python distribution.
 
 ### Authors
-John Abraham
-Jeh Lokhande
-Miller Mrosek
-Shishir Suman
+- John Abraham
+- Jeh Lokhande
+- Miller Mrosek
+- Shishir Suman
